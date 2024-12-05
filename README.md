@@ -1,6 +1,5 @@
 # Wholesale-Customer-Clustering-
 WholesaleInsights
-# Wholesale Customer Clustering
 
 This project demonstrates how to cluster wholesale customer data using the KMeans algorithm. The goal is to identify customer segments for targeted marketing strategies. 
 
